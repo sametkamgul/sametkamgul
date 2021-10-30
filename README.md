@@ -2,8 +2,8 @@
 👋👋👋
 
 
-- 🌱 I’m currently learning html/css/javascript
-- 👯 I’m looking to collaborate on frontend & backend technologies
+- 🌱 I’m currently learning HTML/CSS/JavaScript, Vue.js, Node.js
+- 👯 I’m looking for collaboraters on frontend & backend technologies
 
 <div>
   <br/>
