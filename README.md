@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning HTML/CSS/JavaScript, Vue.js, Node.js
 - 👯 I’m looking for collaboraters on frontend & backend technologies
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 <div>
   <br/>
   <h3 align="left">Contact me</h3>
