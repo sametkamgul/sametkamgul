@@ -1,10 +1,6 @@
 ## Hello World!!!
 👋👋👋
 
-
-- 🌱 I’m currently learning HTML/CSS/JavaScript, Vue.js, Node.js 
-- 👯 I’m looking for collaboraters on frontend & backend technologies
-
 ## Tech
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" />
